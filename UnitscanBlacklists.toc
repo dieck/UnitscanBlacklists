@@ -1,0 +1,17 @@
+## Interface: 11507
+## Title: Unitscan Blacklists
+## Notes: Blacklist system for Unitscan
+## Author: dieck
+## Version: 20250521
+## SavedVariables: UnitscanBlacklistDB
+## Dependencies: Ace3, unitscan
+
+embeds.xml
+
+unitscanblacklists.lua
+
+locale-enUS.lua
+
+comms.lua
+core.lua
+
